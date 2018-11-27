@@ -1,0 +1,27 @@
+PODS:
+  - JSONModel (1.8.0)
+  - Masonry (1.1.0)
+  - XFCustomQuickViews (0.1.0):
+    - JSONModel
+    - Masonry
+
+DEPENDENCIES:
+  - XFCustomQuickViews (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - JSONModel
+    - Masonry
+
+EXTERNAL SOURCES:
+  XFCustomQuickViews:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JSONModel: 02ab723958366a3fd27da57ea2af2113658762e9
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  XFCustomQuickViews: 63d2fd4c70315c856f4259d0e74e7a4ab094a66e
+
+PODFILE CHECKSUM: a7981924d31e3ef7bea5f9e640f6e0d0efb1b130
+
+COCOAPODS: 1.5.3

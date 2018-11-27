@@ -1,0 +1,6 @@
+framework module XFCustomQuickViews {
+  umbrella header "XFCustomQuickViews-umbrella.h"
+
+  export *
+  module * { export * }
+}
