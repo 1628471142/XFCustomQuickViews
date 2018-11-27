@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XFCustomQuickViews_Example' do
+  pod 'XFCustomQuickViews', :path => '../'
+
+  target 'XFCustomQuickViews_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
